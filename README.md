@@ -8,8 +8,8 @@
    
   ## 
   <h2 align="center"> Sobre </h2>
-<div align="justify"><br>
-  🤓 Gamer and manga reader <br>
+<div align="center"><br>
+  🤓 Gamer and mangá reader <br>
   📚 Studying Systems Analysis and Development<br>
   🖥️ Web Developer Front-End
 </div>
