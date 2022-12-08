@@ -1,5 +1,13 @@
 <h1 align="center"> Hii, how are you?? I am Murillo Vinícius</h1>
 
+<div width="10" height="10%" align="center">
+  
+![opg3](https://user-images.githubusercontent.com/94003897/206335052-fdd29c09-de21-43ec-b2e4-95ec6cc4e88c.gif)
+  
+</div>
+
+
+
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img width ="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=murillou&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
