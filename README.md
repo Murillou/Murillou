@@ -10,14 +10,13 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
 </div>
 
 ##
   
 <div align="center">
   <a href = "https://www.linkedin.com/in/murillo-vinícius-ferreira-pontes-5a7595219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-
 </div>
-  
-  ![Snake animation]([https:///](https://github.com/Murillou)github-contribution-grid-snake.svg)
+ 
+
+  ![snake gif](https://github.com/murillou/murillou/blob/output/github-contribution-grid-snake.svg)
