@@ -2,9 +2,12 @@
 
 # 🙋‍♂️ Olá !
 
-Murillo Vinícius, 21, João Pessoa.
+Murillo Vinícius, 22, João Pessoa.
 
-TypeScript, React, afim de aprender mais a respeito das tecnologias e poder aprimorar minhas habilidades.
+Next.js, React, TypeScript, afim de aprender mais a respeito das tecnologias e poder aprimorar minhas habilidades.
+
+Meu portfólio: [www.murillou.dev/](https://www.murillou.dev/)
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murillou&layout=compact&theme=radical" alt="My Github Stats">
 
