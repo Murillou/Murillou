@@ -6,7 +6,7 @@ Murillo Vinícius, 22, João Pessoa.
 
 Next.js, React, TypeScript, afim de aprender mais a respeito das tecnologias e poder aprimorar minhas habilidades.
 
-Meu portfólio: [www.murillou.dev/](https://www.murillou.dev/)
+Meu portfólio: <a href="https://www.murillou.dev/" target="_blank">www.murillou.dev/</a>
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murillou&layout=compact&theme=radical" alt="My Github Stats">
