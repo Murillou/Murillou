@@ -1,12 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-# 🙋‍♂️ Olá !
+# 🙋‍♂️ Olá, eu sou Murillo Vinícius!
 
-Murillo Vinícius, 22, João Pessoa.
+Sou um **Desenvolvedor Front-End** apaixonado por criar interfaces modernas, responsivas e eficientes. Meu foco principal é em **React, Next.js e TypeScript**, buscando sempre aprimorar minhas habilidades e aprender novas tecnologias para desenvolver soluções de alto desempenho.
 
-Next.js, React, TypeScript, afim de aprender mais a respeito das tecnologias e poder aprimorar minhas habilidades.
+📍 **João Pessoa, Brasil**  
+🚀 Sempre explorando novas tecnologias e desafios!
 
-Meu portfólio: <a href="https://www.murillou.dev/" target="_blank">www.murillou.dev/</a>
+🖥️ Confira meu portfólio: [www.murillou.dev](https://www.murillou.dev/)
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murillou&layout=compact&theme=radical" alt="My Github Stats">
