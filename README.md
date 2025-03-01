@@ -5,18 +5,16 @@
 ```tsx
 export default function DeveloperFrontEnd() {
   return {
-    nome: "Murillo Vinícius",
+    name: "Murillo Vinícius",
     stack: ["Next.js", "TypeScript", "PHP"],
-    paixao: "Coddar",
+    love: "Codar",
     portfolio: "www.murillou.dev",
-    localizacao: "João Pessoa, Brasil"
+    location: "João Pessoa, Brasil"
   };
 }
 ```
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murillou&layout=compact&theme=radical" alt="My Github Stats">
-
-## - 🖥️ Teck Skills
+## - 🖥️ Tech Stack
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
