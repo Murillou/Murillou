@@ -3,17 +3,15 @@
 # Olá mundo, me chamo Murillo Vinícius! :D
 
 ```tsx
-export default function MurilloVinicius(){
-  return (
-    <DesenvolvedorFrontEnd
-      nome="Murillo Vinícius"
-      stack={["Next.js", "TypeScript", "PHP"]}
-      paixao="Coddar"
-      portfolio="www.murillou.dev"
-      localizacao="João Pessoa, Brasil"
-    />
-  );
-};
+export default function DeveloperFrontEnd() {
+  return {
+    nome: "Murillo Vinícius",
+    stack={["Next.js", "TypeScript", "PHP"]}
+    paixao: "Coddar",
+    portfolio: "www.murillou.dev",
+    localizacao: "João Pessoa, Brasil"
+  };
+}
 ```
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murillou&layout=compact&theme=radical" alt="My Github Stats">
