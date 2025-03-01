@@ -6,7 +6,7 @@
 export default function DeveloperFrontEnd() {
   return {
     nome: "Murillo Vinícius",
-    stack=["Next.js", "TypeScript", "PHP"],
+    stack: ["Next.js", "TypeScript", "PHP"],
     paixao: "Coddar",
     portfolio: "www.murillou.dev",
     localizacao: "João Pessoa, Brasil"
